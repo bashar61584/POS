@@ -1,0 +1,2738 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Infragistics4.Win.Portable.Core.v19.2</name>
+    </assembly>
+    <members>
+        <member name="T:Infragistics.Collections.AdapterNotifyCollection`2">
+            <summary>
+            An adapter observable collection that wraps a collection of <typeparamref name="TItem"/> instances and exposes them as a collection of <typeparamref name="TWrapper"/> instances.
+            </summary>
+            <typeparam name="TWrapper">The type of item that is exposed by the collection</typeparam>
+            <typeparam name="TItem">The type of item in the wrapped collection</typeparam>
+        </member>
+        <member name="E:Infragistics.Collections.AdapterNotifyCollection`2.CollectionChanged">
+            <summary>
+            Invoked when the contents of the collection have been changed.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Collections.ObservableCollectionWrapper`1">
+            <summary>
+            An observable collection that wraps a mutable observable collection.
+            </summary>
+            <typeparam name="T">The type of items in the collection</typeparam>
+        </member>
+        <member name="M:Infragistics.Collections.ObservableCollectionWrapper`1.#ctor(System.Collections.Generic.IList{`0})">
+            <summary>
+            Initializes a new <see cref="T:Infragistics.Collections.ObservableCollectionWrapper`1"/>
+            </summary>
+            <param name="list">The list to be wrapped</param>
+        </member>
+        <member name="E:Infragistics.Collections.ObservableCollectionWrapper`1.CollectionChanged">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:Infragistics.Collections.ObservableCollectionWrapper`1.PropertyChanged">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Infragistics.Collections.ReadOnlyObservableCollectionWrapper`1">
+            <summary>
+            A read-only observable collection that wraps an observable collection.
+            </summary>
+            <typeparam name="T">The type of items in the collection</typeparam>
+        </member>
+        <member name="M:Infragistics.Collections.ReadOnlyObservableCollectionWrapper`1.#ctor(System.Collections.Generic.IList{`0})">
+            <summary>
+            Initializes a new <see cref="T:Infragistics.Collections.ReadOnlyObservableCollectionWrapper`1"/>
+            </summary>
+            <param name="list">The list to be wrapped</param>
+        </member>
+        <member name="E:Infragistics.Collections.ReadOnlyObservableCollectionWrapper`1.CollectionChanged">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:Infragistics.Collections.ReadOnlyObservableCollectionWrapper`1.PropertyChanged">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Infragistics.AssemblyVersion">
+            <summary>
+            Contains version information for the Infragistics assemblies.
+            </summary>
+        </member>
+        <member name="F:Infragistics.AssemblyVersion.MajorMinor">
+            <summary>
+            Major.Minor number portion of the assembly version
+            </summary>
+        </member>
+        <member name="F:Infragistics.AssemblyVersion.Build">
+            <summary>
+            Build number portion of the assembly version
+            </summary>
+        </member>
+        <member name="F:Infragistics.AssemblyVersion.Revision">
+            <summary>
+            Revision number portion of the assembly version
+            </summary>
+        </member>
+        <member name="F:Infragistics.AssemblyVersion.Version">
+            <summary>
+            Assembly version number
+            </summary>
+        </member>
+        <member name="F:Infragistics.AssemblyVersion.FileVersion">
+            <summary>
+            Assembly file version number. Normally will match the AssemblyVersion number.
+            </summary>
+        </member>
+        <member name="F:Infragistics.AssemblyVersion.ToolBoxBitmapFolder">
+            <summary>
+            Location of the resources for toolbox bitmaps. 
+            </summary>
+        </member>
+        <member name="F:Infragistics.AssemblyVersion.CompanyName">
+            <summary>
+            Assembly company name
+            </summary>
+        </member>
+        <member name="F:Infragistics.AssemblyVersion.EndCopyrightYear">
+            <summary>
+            End year of assembly copyright
+            </summary>
+        </member>
+        <member name="F:Infragistics.AssemblyVersion.SatelliteContractVersion">
+            <summary>
+            The assembly version number for the satellite assemblies.
+            </summary>
+        </member>
+        <member name="F:Infragistics.AssemblyVersion.Configuration">
+            <summary>
+            The current build configuration for the assembly.
+            </summary>
+        </member>
+        <member name="F:Infragistics.AssemblyVersion.PublicKey_WF">
+            <summary>
+            Public key for the Winforms assemblies.
+            </summary>
+        </member>
+        <member name="F:Infragistics.AssemblyVersion.AssemblyNamePrefix">
+            <summary>
+            The prefix of all assembly names in the product.
+            </summary>
+        </member>
+        <member name="F:Infragistics.AssemblyVersion.AssemblyNameSuffix">
+            <summary>
+            The suffix of all assembly names in the product.
+            </summary>
+        </member>
+        <member name="F:Infragistics.AssemblyVersion.ProductTitleSuffix">
+            <summary>
+            The product tile suffix
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.ClientNameAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.ClientNameAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The name of the member in the target platform</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.ClientNameAttribute.AllowConflict">
+            <summary>
+            This member supports the Infragistics infrastructure and is not meant to be invoked externally.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.ClientNameAttribute.AllowObfuscation">
+            <summary>
+            This member supports the Infragistics infrastructure and is not meant to be invoked externally.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.ClientNameAttribute.ClientName">
+            <summary>
+            The name of the member on the target platform
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JAVAClientNameAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JAVAClientNameAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The name of the member in the target platform</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.OBJCClientNameAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.OBJCClientNameAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The name of the member in the target platform</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JSClientNameAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSClientNameAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The name of the member in the target platform</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSClientNameAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSClientNameAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The name of the member in the target platform</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JsonAPIClientNameAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JsonAPIClientNameAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The name of the member in the target platform</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.DontObfuscateAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.DontObfuscateAttribute.#ctor">
+            <summary>
+            DontObfuscateAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JSDontObfuscateAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSDontObfuscateAttribute.#ctor">
+            <summary>
+            DontObfuscateAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.EmitIgnoreAttribute">
+            <summary>
+            Members marked with this attribute will not emit their code, but a ClientName attribute will still be honored by references to point to another entity. 
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.EmitIgnoreSpecificAttribute">
+            <summary>
+            Members marked with this attribute will not emit their code, but a ClientName attribute will still be honored by references to point to another entity. 
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JAVAEmitIgnoreAttribute">
+            <summary>
+            Members marked with this attribute will not emit their code, but a ClientName attribute will still be honored by references to point to another entity. 
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.OBJCEmitIgnoreAttribute">
+            <summary>
+            Members marked with this attribute will not emit their code, but a ClientName attribute will still be honored by references to point to another entity. 
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JSEmitIgnoreAttribute">
+            <summary>
+            Members marked with this attribute will not emit their code, but a ClientName attribute will still be honored by references to point to another entity. 
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.EmitIgnoreTypeAttribute">
+            <summary>
+            Classes marked with this attribute will not emit their type, and the members will be assumed to be global &amp; existing in the JavaScript runtime 
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JAVAEmitIgnoreTypeAttribute">
+            <summary>
+            Classes marked with this attribute will not emit their type, and the members will be assumed to be global &amp; existing in the JavaScript runtime 
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.OBJCEmitIgnoreTypeAttribute">
+            <summary>
+            Classes marked with this attribute will not emit their type, and the members will be assumed to be global &amp; existing in the JavaScript runtime 
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JSEmitIgnoreTypeAttribute">
+            <summary>
+            Classes marked with this attribute will not emit their type, and the members will be assumed to be global &amp; existing in the JavaScript runtime 
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetUtilities">
+            <summary>
+            This class is for Infragistics internal use only.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetUtilities.FromExternalObject(System.Object)">
+            <summary>
+            This member supports the Infragistics infrastructure and is not meant to be invoked externally.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetUtilities.ToExternalObject(System.Object)">
+            <summary>
+            This member supports the Infragistics infrastructure and is not meant to be invoked externally.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetUtilities.FromXFExternalObject(System.Object)">
+            <summary>
+            This member supports the Infragistics infrastructure and is not meant to be invoked externally.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetUtilities.ToXFExternalObject(System.Object)">
+            <summary>
+            This member supports the Infragistics infrastructure and is not meant to be invoked externally.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetUtilities.Convert``2(System.Nullable{``0},System.Func{``0,``1})">
+            <summary>
+            This member supports the Infragistics infrastructure and is not meant to be invoked externally.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetUtilities.Convert``2(``0[],System.Func{``0,``1})">
+            <summary>
+            This member supports the Infragistics infrastructure and is not meant to be invoked externally.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.IWidgetExternalObject">
+            <summary>
+            This interface is for Infragistics internal use only.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.IWidgetExternalObject.InternalObject">
+            <summary>
+            Returns the internal object that the public object represents
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.IWidgetInternalObject">
+            <summary>
+            This interface is for Infragistics internal use only.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.IWidgetInternalObject.ExternalObject">
+            <summary>
+            Returns the public object that represents the internal object
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.IXFWidgetExternalObject">
+            <summary>
+            This interface is for Infragistics internal use only.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.IXFWidgetExternalObject.XFInternalObject">
+            <summary>
+            Returns the internal object that the public object represents
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.IXFWidgetInternalObject">
+            <summary>
+            This interface is for Infragistics internal use only.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.IXFWidgetInternalObject.XFExternalObject">
+            <summary>
+            Returns the public object that represents the internal object
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.LiteralStringAttribute">
+            <summary>
+            if a method is marked with this attribute, the method parameter to this method  will be emitted as pure string literal 
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JAVALiteralStringAttribute">
+            <summary>
+            if a method is marked with this attribute, the method parameter to this method  will be emitted as pure string literal 
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JSLiteralStringAttribute">
+            <summary>
+            if a method is marked with this attribute, the method parameter to this method  will be emitted as pure string literal 
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.OBJCLiteralStringAttribute">
+            <summary>
+            if a method is marked with this attribute, the method parameter to this method  will be emitted as pure string literal 
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WeakAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WeakAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.ManuallyReleasedAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.ManuallyReleasedAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JAVAWeakAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JAVAWeakAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JSWeakAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSWeakAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.OBJCWeakAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.OBJCWeakAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetAttributeBase">
+            <summary>
+            Base class for an attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetAttributeBase.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget name</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.WidgetAttribute.Name">
+            <summary>
+            The widget name.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.WidgetAttribute.IgnoreScope">
+            <summary>
+            True to ignore the scope of the source type (e.g. if the source type is public to allow a generated type to be created).
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetTreatAsCollectionAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetTreatAsCollectionAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget name</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.WidgetTreatAsCollectionAttribute.Name">
+            <summary>
+            The widget name.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JsonAPITreatAsRefAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JsonAPITreatAsRefAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JsonAPIIncludeMemberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JsonAPIIncludeMemberAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JsonAPITreatAsCollectionAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JsonAPITreatAsCollectionAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetIncludeBaseMembers">
+            <summary>
+            Attribute used for including or excluding members from base class.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetIncludeBaseMembers.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JAVAWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JAVAWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JAVAWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JSWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.ObfuscationPrefixAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.ObfuscationPrefixAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget name</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.ObfuscationPrefixAttribute.Name">
+            <summary>
+            The widget name.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSEmitModuleDefinitionsAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSEmitModuleDefinitionsAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSEmitModuleDefinitionsAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetHighFrequencyEventAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetHighFrequencyEventAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSIgnoreAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSIgnoreAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.OBJCWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.OBJCWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.OBJCWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WFWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WFWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WFWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget module name</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.WFWidgetAttribute.IsLicensed">
+            <summary>
+            Returns or sets a boolean indicating if the class is licensed.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget module name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamiOSWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamiOSWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamiOSWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget module name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamAndroidWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamAndroidWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamAndroidWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget module name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamWrapperWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamWrapperWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamWrapperWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget module name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.UwpWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.UwpWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.UwpWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget module name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WpfWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WpfWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WpfWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget module name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JsonAPIWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JsonAPIWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JsonAPIWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget module name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JsonAPIMainWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JsonAPIMainWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JsonAPIMainWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget module name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.HybridJavaWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.HybridJavaWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.HybridJavaWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget module name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.HybridJavaSuppressWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.HybridJavaSuppressWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.HybridJavaSuppressWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget module name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JsonAPIRedirectAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JsonAPIRedirectAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JsonAPIRedirectAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget module name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.MainWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.MainWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.MainWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The name of the widget</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.MainWidgetAttribute.Name">
+            <summary>
+            The name of the widget
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JAVAMainWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JAVAMainWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JAVAMainWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The name of the widget</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.OBJCMainWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.OBJCMainWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.OBJCMainWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The name of the widget</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JSMainWidgetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSMainWidgetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSMainWidgetAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The name of the widget</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.SuppressWidgetMemberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.SuppressWidgetMemberAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JAVASuppressWidgetMemberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JAVASuppressWidgetMemberAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WFSuppressWidgetMemberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WFSuppressWidgetMemberAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.OBJCSuppressWidgetMemberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.OBJCSuppressWidgetMemberAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JSSuppressWidgetMemberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSSuppressWidgetMemberAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JsonAPISuppressWidgetMemberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JsonAPISuppressWidgetMemberAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.HybridJavaSuppressWidgetMemberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.HybridJavaSuppressWidgetMemberAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSSuppressWidgetMemberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSSuppressWidgetMemberAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.MvcSuppressWidgetMemberAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WpfSuppressWidgetMemberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WpfSuppressWidgetMemberAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.DependencyPropertyConstantAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.DependencyPropertyConstantAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.SuppressWidgetMemberCopyAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.SuppressWidgetMemberCopyAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JAVASuppressWidgetMemberCopyAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JAVASuppressWidgetMemberCopyAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.OBJCSuppressWidgetMemberCopyAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.OBJCSuppressWidgetMemberCopyAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JSSuppressWidgetMemberCopyAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSSuppressWidgetMemberCopyAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetDefaultStringAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetDefaultStringAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="value">The default value for the property</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.WidgetDefaultStringAttribute.Value">
+            <summary>
+            The widget default.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JAVAWidgetDefaultStringAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JAVAWidgetDefaultStringAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="value">The default value for the property</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.OBJCWidgetDefaultStringAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.OBJCWidgetDefaultStringAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="value">The default value for the property</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JSWidgetDefaultStringAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSWidgetDefaultStringAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="value">The default value for the property</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetDefaultNumberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetDefaultNumberAttribute.#ctor(System.Double)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="value">The default value for the property</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.WidgetDefaultNumberAttribute.Value">
+            <summary>
+            The widget default.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JAVAWidgetDefaultNumberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JAVAWidgetDefaultNumberAttribute.#ctor(System.Double)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="value">The default value for the property</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.OBJCWidgetDefaultNumberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.OBJCWidgetDefaultNumberAttribute.#ctor(System.Double)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="value">The default value for the property</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JSWidgetDefaultNumberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSWidgetDefaultNumberAttribute.#ctor(System.Double)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="value">The default value for the property</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetDefaultBooleanAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetDefaultBooleanAttribute.#ctor(System.Boolean)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="value">The default value for the property</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.WidgetDefaultBooleanAttribute.Value">
+            <summary>
+            The widget default.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JAVAWidgetDefaultBooleanAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JAVAWidgetDefaultBooleanAttribute.#ctor(System.Boolean)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="value">The default value for the property</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.OBJCWidgetDefaultBooleanAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.OBJCWidgetDefaultBooleanAttribute.#ctor(System.Boolean)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="value">The default value for the property</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JSWidgetDefaultBooleanAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSWidgetDefaultBooleanAttribute.#ctor(System.Boolean)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="value">The default value for the property</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.MvcEnumSetStringEnumAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.MvcEnumSetStringEnumAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JAVADontHideAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JAVADontHideAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.DontHideAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.DontHideAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.HideAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.HideAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamSuppressWidgetMemberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamSuppressWidgetMemberAttribute.#ctor">
+            <summary>
+            SuppressWidgetMemberAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamiOSSuppressWidgetMemberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamiOSSuppressWidgetMemberAttribute.#ctor">
+            <summary>
+            SuppressWidgetMemberAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamAndroidSuppressWidgetMemberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamAndroidSuppressWidgetMemberAttribute.#ctor">
+            <summary>
+            SuppressWidgetMemberAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamWPSuppressWidgetMemberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamWPSuppressWidgetMemberAttribute.#ctor">
+            <summary>
+            SuppressWidgetMemberAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamiOSTreatAsDoubleAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamiOSTreatAsDoubleAttribute.#ctor">
+            <summary>
+            SuppressWidgetMemberAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamWrapperSuppressWidgetMemberAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamWrapperSuppressWidgetMemberAttribute.#ctor">
+            <summary>
+            SuppressWidgetMemberAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamiOSTreatAsFloatAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamiOSTreatAsFloatAttribute.#ctor">
+            <summary>
+            SuppressWidgetMemberAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamiOSEnumNameAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamiOSEnumNameAttribute.#ctor(System.String)">
+            <summary>
+            WidgetDefaultStringAttribute constructor.
+            </summary>
+            <param name="value">The widget default.</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.XamiOSEnumNameAttribute.Value">
+            <summary>
+            The widget default.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetParseMethodAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetParseMethodAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The new name for the member</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.WidgetParseMethodAttribute.Name">
+            <summary>
+            The name for the member
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetNameBindingAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetNameBindingAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The new name for the member</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.WidgetNameBindingAttribute.Name">
+            <summary>
+            The method to update the binding from.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetSkipExternalCheckAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetSkipExternalCheckAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The new name for the member</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSWidgetNameBindingAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSWidgetNameBindingAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The new name for the member</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.TSWidgetNameBindingAttribute.Name">
+            <summary>
+            The method to update the binding from.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetMemberNameAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetMemberNameAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The new name for the member</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.WidgetMemberNameAttribute.Name">
+            <summary>
+            The name for the member
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WCWidgetMemberNameAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WCWidgetMemberNameAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The new name for the member</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.WCWidgetMemberNameAttribute.Name">
+            <summary>
+            The name for the member
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSWidgetMemberNameAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSWidgetMemberNameAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The new name for the member</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.TSWidgetMemberNameAttribute.Name">
+            <summary>
+            The name for the member
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WFWidgetMemberNameAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WFWidgetMemberNameAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The new name for the member</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.HybridJavaWidgetMemberNameAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.HybridJavaWidgetMemberNameAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The new name for the member</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.UwpWidgetMemberNameAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.UwpWidgetMemberNameAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The new name for the member</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamWidgetMemberNameAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamWidgetMemberNameAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The new name for the member</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetNamespaceAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetNamespaceAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetNamespaceAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+            <param name="sourceNamespace">The name that must match the source type's namespace in order to use the new namespace name.</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WFWidgetNamespaceAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WFWidgetNamespaceAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WFWidgetNamespaceAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+            <param name="sourceNamespace">The name that must match the source type's namespace in order to use the new namespace name.</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamWrapperWidgetNamespaceAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamWrapperWidgetNamespaceAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamWrapperWidgetNamespaceAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+            <param name="sourceNamespace">The name that must match the source type's namespace in order to use the new namespace name.</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamWrapperAndroidWidgetNamespaceAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamWrapperAndroidWidgetNamespaceAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamWrapperAndroidWidgetNamespaceAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+            <param name="sourceNamespace">The name that must match the source type's namespace in order to use the new namespace name.</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamWrapperIOSWidgetNamespaceAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamWrapperIOSWidgetNamespaceAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamWrapperIOSWidgetNamespaceAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+            <param name="sourceNamespace">The name that must match the source type's namespace in order to use the new namespace name.</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamWrapperUwpWidgetNamespaceAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamWrapperUwpWidgetNamespaceAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamWrapperUwpWidgetNamespaceAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+            <param name="sourceNamespace">The name that must match the source type's namespace in order to use the new namespace name.</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamAndroidWidgetNamespaceAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamAndroidWidgetNamespaceAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamAndroidWidgetNamespaceAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+            <param name="sourceNamespace">The name that must match the source type's namespace in order to use the new namespace name.</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamiOSWidgetNamespaceAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamiOSWidgetNamespaceAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamiOSWidgetNamespaceAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+            <param name="sourceNamespace">The name that must match the source type's namespace in order to use the new namespace name.</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.UwpWidgetNamespaceAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.UwpWidgetNamespaceAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.UwpWidgetNamespaceAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+            <param name="sourceNamespace">The name that must match the source type's namespace in order to use the new namespace name.</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.NativeWidgetNamespaceAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.NativeWidgetNamespaceAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.NativeWidgetNamespaceAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="namespace">The namespace for the generated type</param>
+            <param name="sourceNamespace">The name that must match the source type's namespace in order to use the new namespace name.</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetDependencyPropertyAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetDependencyPropertyAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetDependencyPropertyAttribute.#ctor(System.Boolean)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="isDependencyProperty">True if dependency properties should be generated</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WfWidgetDescriptionAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WfWidgetDescriptionAttribute.#ctor(System.Boolean)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="generateDescription">True if a description should be generated for the public properties and events</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetFontPropertyAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetFontPropertyAttribute.#ctor(System.String,System.String,System.String,System.Double,System.Boolean,System.Boolean)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="propertyPrefix">The prefix for the generated properties. This may be null/empty string for no prefix.</param>
+            <param name="simpleCommentDescription">A snippet of text that will be injected into the document comments for each of the generated properties - e.g. "axis labels" or "subtitle"</param>
+            <param name="defaultFontFamily">The default font family to use when the internal property is null</param>
+            <param name="defaultFontSize">The default font size to use when the internal property is null</param>
+            <param name="defaultBold">The default font bold state to use when the internal property is null</param>
+            <param name="defaultItalic">The default font italic state to use when the internal property is null</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WFWidgetEventManagerAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WFWidgetEventManagerAttribute.#ctor(System.String,System.Boolean,System.Boolean,System.Boolean)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WFWidgetEventManagerGroupAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WFWidgetEventManagerGroupAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WFWidgetCategoryAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WFWidgetCategoryAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WFWidgetDesignTimeHiddenAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WFWidgetDesignTimeHiddenAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WFWidgetDesignTimeContentAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WFWidgetDesignTimeContentAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WfWidgetPropertyChangeIdAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WfWidgetPropertyChangeIdAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.ObjCUseCArrayAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.ObjCUseCArrayAttribute.#ctor(System.String)">
+            <summary>
+            ObjCUseCArrayAttribute constructor.
+            </summary>
+            <param name="name">The name of a local variable that should be treated as a C array.</param>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.ObjCUseCArrayAttribute.#ctor">
+            <summary>
+            ObjCUseCArrayAttribute constructor.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.ObjCUseCArrayAttribute.Name">
+            <summary>
+            The widget default.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.ConvertToInstanceInvocationAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.ConvertToInstanceInvocationAttribute.#ctor(System.String,System.Int32)">
+            <summary>
+            ObjCUseCArrayAttribute constructor.
+            </summary>
+            <param name="name"></param>
+            <param name="instanceIndex">The index of the paramater to turn in to the caller.</param>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.ConvertToInstanceInvocationAttribute.#ctor(System.String)">
+            <summary>
+            ObjCUseCArrayAttribute constructor.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.ConvertToInstanceInvocationAttribute.Index">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.ConvertToInstanceInvocationAttribute.Name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSConvertToInstanceInvocationAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSConvertToInstanceInvocationAttribute.#ctor(System.String,System.Int32)">
+            <summary>
+            ObjCUseCArrayAttribute constructor.
+            </summary>
+            <param name="name"></param>
+            <param name="instanceIndex">The index of the paramater to turn in to the caller.</param>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSConvertToInstanceInvocationAttribute.#ctor(System.String)">
+            <summary>
+            ObjCUseCArrayAttribute constructor.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.TSConvertToInstanceInvocationAttribute.Index">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.TSConvertToInstanceInvocationAttribute.Name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TranslatedTypePrefixAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TranslatedTypePrefixAttribute.#ctor(System.String,System.String)">
+            <summary>
+            TranslationTypePrefixAttribute constructor.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TranslatedTypePrefixAttribute.#ctor(System.String)">
+            <summary>
+            TranslationTypePrefixAttribute constructor.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.TranslatedTypePrefixAttribute.Prefix">
+            <summary>
+            Gets/sets the Prefix
+            </summary>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.TranslatedTypePrefixAttribute.TypeNamespace">
+            <summary>
+            Gets/sets the TypeNamespace
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.ArrayTypeNameAliasAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.ArrayTypeNameAliasAttribute.#ctor(System.String,System.String)">
+            <summary>
+            ArrayTypeNameAliasAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.UseSimpleObjCMethodNamingAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.UseSimpleObjCMethodNamingAttribute.#ctor">
+            <summary>
+            UseSimpleObjCMethodNamingAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.EncapsulatePrivateFieldsAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.EncapsulatePrivateFieldsAttribute.#ctor">
+            <summary>
+            EncapsulatePrivateFieldsAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamWrapperAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamWrapperAttribute.#ctor">
+            <summary>
+            XamWrapperAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetElementAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetElementAttribute.#ctor">
+            <summary>
+            WidgetElementAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetCreatableNonLeafAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetCreatableNonLeafAttribute.#ctor">
+            <summary>
+            WidgetElementAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.ShortNamePrefixAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.ShortNamePrefixAttribute.#ctor(System.String)">
+            <summary>
+            WidgetElementAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.PackageNameAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.PackageNameAttribute.#ctor(System.String)">
+            <summary>
+            WidgetElementAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.ReferenceGlobalShortNamesAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.ReferenceGlobalShortNamesAttribute.#ctor">
+            <summary>
+            WidgetElementAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TreatAsNumberAttribute">
+            <summary>
+            Attribute used for cross-platform translation to indicate when a member or parameter should be treated
+            as if it has device independent pixel units.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TreatAsNumberAttribute.#ctor">
+            <summary>
+            TreatAsNumberAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TreatAsDPAttribute">
+            <summary>
+            Attribute used for cross-platform translation to indicate when a member or parameter should be treated
+            as if it has device independent pixel units.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TreatAsDPAttribute.#ctor">
+            <summary>
+            TreatAsDPAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TreatAsSPAttribute">
+            <summary>
+            Attribute used for cross-platform translation to indicate when a member or parameter should be treated
+            as if it has scaling pixel units.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TreatAsSPAttribute.#ctor">
+            <summary>
+            TreatAsSPAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TreatAsPXAttribute">
+            <summary>
+            Attribute used for cross-platform translation to indicate when a member or parameter should be treated
+            as if it has raw pixel units.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TreatAsPXAttribute.#ctor">
+            <summary>
+            TreatAsPXAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamTwoWayPropertyAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamTwoWayPropertyAttribute.#ctor(System.Boolean)">
+            <summary>
+            Initializes a new <see cref="T:Infragistics.Portable.Runtime.XamTwoWayPropertyAttribute"/>
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetUniquePrefixAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetUniquePrefixAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="prefix">The unique prefix</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetPropertyToFlattenAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetPropertyToFlattenAttribute.#ctor(System.String,System.String[])">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="propertyPrefix">The prefix for the promoted properties</param>
+            <param name="propertiesToSuppress">An optional array of properties to suppress</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.WidgetPropertyToFlattenAttribute.Substitutions">
+            <summary>
+            Returns or sets the string values that should be used as replacements for the tokens in the comments of the properties of the subobject.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetFlattenedMemberInfoAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetFlattenedMemberInfoAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="propertyNamePattern">The pattern used to determine the name of the property promoted to the owning object. {0} is the prefix for the property that was flattened and {1} is the original name of the property of the object being flattened.</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.ObjCFrameworkNameAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.ObjCFrameworkNameAttribute.#ctor(System.String)">
+            <summary>
+            ObjCFrameworkNameAttribute constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.XamWrapperCreateDefaultValueAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.XamWrapperCreateDefaultValueAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.LogicalChildrenAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.LogicalChildrenAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.DynamicDefaultValueAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.DynamicDefaultValueAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.AddGenericArgumentAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.AddGenericArgumentAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSAddGenericArgumentAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSAddGenericArgumentAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSDontTranslateAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSDontTranslateAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JSWidgetSnippetAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSWidgetSnippetAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSWidgetSnippetAttribute.#ctor(System.String,System.Boolean)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSWidgetSnippetAttribute.#ctor(System.Boolean)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSWidgetSnippetAttribute.#ctor(System.Double)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JSDontTranslateAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSDontTranslateAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.RequiredModuleAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.RequiredModuleAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSRequiredModuleAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSRequiredModuleAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSParameterTypeHintAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSParameterTypeHintAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.ImportModuleAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.ImportModuleAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSImportModuleAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSImportModuleAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.SuppressImportModuleAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.SuppressImportModuleAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSSuppressImportModuleAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSSuppressImportModuleAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.ExtraDeclarationAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.ExtraDeclarationAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSExtraDeclarationAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSExtraDeclarationAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSImportEntireModuleAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSImportEntireModuleAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSSingleModuleAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSSingleModuleAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JSRequiredModuleAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSRequiredModuleAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.StaticRedirectAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.StaticRedirectAttribute.#ctor(System.String,System.String,System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSStaticRedirectAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSStaticRedirectAttribute.#ctor(System.String,System.String,System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.SuppressSynthesizedInitializerAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.SuppressSynthesizedInitializerAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSSuppressSynthesizedInitializerAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSSuppressSynthesizedInitializerAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSImportRedirectAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSImportRedirectAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.ConditionalFeatureAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.ConditionalFeatureAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.EmbeddedResourceAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.EmbeddedResourceAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetModuleAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetModuleAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget module name</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.WidgetModuleAttribute.Name">
+            <summary>
+            The widget module name.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JAVAWidgetModuleAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JAVAWidgetModuleAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget module name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.JSWidgetModuleAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.JSWidgetModuleAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget module name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.OBJCWidgetModuleAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.OBJCWidgetModuleAttribute.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the attribute
+            </summary>
+            <param name="name">The widget module name</param>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetModuleParentAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetModuleParentAttribute.#ctor(System.String)">
+            <summary>
+            WidgetModuleParentAttribute constructor.
+            </summary>
+            <param name="name">The name of the widget parent module.</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.WidgetModuleParentAttribute.Name">
+            <summary>
+            The name of the widget parent module.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.WidgetModuleParentAttribute.RestrictToSameAssembly">
+            <summary>
+            This member supports the Infragistics infrastructure and is not meant to be invoked externally.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetIgnoreDependsAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetIgnoreDependsAttribute.#ctor(System.String)">
+            <summary>
+            WidgetIgnoreDependsAttribute constructor.
+            </summary>
+            <param name="name">The name of the dependency to ignore.</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.WidgetIgnoreDependsAttribute.Name">
+            <summary>
+            The name of the dependency to ignore.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetIncludeDependsAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetIncludeDependsAttribute.#ctor(System.String)">
+            <summary>
+            WidgetIgnoreDependsAttribute constructor.
+            </summary>
+            <param name="name">The name of the dependency to include.</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.WidgetIncludeDependsAttribute.Name">
+            <summary>
+            The name of the dependency to include.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.TSWidgetIncludeDependsAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.TSWidgetIncludeDependsAttribute.#ctor(System.String)">
+            <summary>
+            WidgetIgnoreDependsAttribute constructor.
+            </summary>
+            <param name="name">The name of the dependency to include.</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.TSWidgetIncludeDependsAttribute.Name">
+            <summary>
+            The name of the dependency to include.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Runtime.WidgetModuleExclusionParentAttribute">
+            <summary>
+            Attribute used for cross-platform translation.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Runtime.WidgetModuleExclusionParentAttribute.#ctor(System.String)">
+            <summary>
+            WidgetModuleParentAttribute constructor.
+            </summary>
+            <param name="name">The name of the widget parent module.</param>
+        </member>
+        <member name="P:Infragistics.Portable.Runtime.WidgetModuleExclusionParentAttribute.Name">
+            <summary>
+            The name of the widget parent module.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Components.UI.HorizontalAlignment">
+            <summary>
+            Indicates the horizontal position of an item relative to another object. 
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Components.UI.HorizontalAlignment.Left">
+            <summary>
+            Align the item to the left
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Components.UI.HorizontalAlignment.Center">
+            <summary>
+            Center the item
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Components.UI.HorizontalAlignment.Right">
+            <summary>
+            Align the item to the right
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Components.UI.HorizontalAlignment.Stretch">
+            <summary>
+            Stretch the item to the full width
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Components.UI.VerticalAlignment">
+            <summary>
+            Indicates the vertica position of an item relative to another object.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Components.UI.VerticalAlignment.Top">
+            <summary>
+            Align the item to the top
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Components.UI.VerticalAlignment.Center">
+            <summary>
+            Center the item
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Components.UI.VerticalAlignment.Bottom">
+            <summary>
+            Align the item to the bottom
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Components.UI.VerticalAlignment.Stretch">
+            <summary>
+            Stretch the item to the full height
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Components.UI.Visibility">
+            <summary>
+            Specifies the display state of an element.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Components.UI.Visibility.Visible">
+            <summary>
+            Display the element.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Components.UI.Visibility.Collapsed">
+            <summary>
+            Do not display the element.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Graphics.Media.Brush.Equals(System.Object)">
+            <summary>
+            Determines if a Brush is equivalent to another.
+            </summary>
+            <param name="obj">The other Brush.</param>
+            <returns>True if the Brushes are equivalent.</returns>
+        </member>
+        <member name="M:Infragistics.Portable.Graphics.Media.Brush.GetHashCode">
+            <summary>
+            Returns a code suitable for hashing
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Graphics.Media.LinearGradientBrush.Equals(System.Object)">
+            <summary>
+            Determines if a Brush is equivalent to another.
+            </summary>
+            <param name="obj">The other Brush.</param>
+            <returns>True if the Brushes are equivalent.</returns>
+        </member>
+        <member name="M:Infragistics.Portable.Graphics.Media.LinearGradientBrush.GetHashCode">
+            <summary>
+            Returns a code suitable for hashing
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Graphics.Media.GradientStop.Equals(System.Object)">
+            <summary>
+            Determines if a Brush is equivalent to another.
+            </summary>
+            <param name="obj">The other Brush.</param>
+            <returns>True if the Brushes are equivalent.</returns>
+        </member>
+        <member name="M:Infragistics.Portable.Graphics.Media.GradientStop.GetHashCode">
+            <summary>
+            Returns a code suitable for hashing
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Graphics.Media.DoubleCollection">
+            <summary>
+            Collection class for the System.Double data type.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Graphics.Media.DoubleCollection.#ctor">
+            <summary>
+            Creates a new instance.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Graphics.Media.DoubleCollection.#ctor(System.Double[])">
+            <summary>
+            Creates a new instance.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Graphics.Media.DoubleCollection.DoubleCollectionTypeConverter.CanConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Type)">
+            <summary>
+            Returns true for System.String.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Graphics.Media.DoubleCollection.DoubleCollectionTypeConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <summary>
+            Converts to System.String.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Graphics.Media.DoubleCollection.DoubleCollectionTypeConverter.CanConvertFrom(System.ComponentModel.ITypeDescriptorContext,System.Type)">
+            <summary>
+            CanConvertFrom
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Graphics.Media.DoubleCollection.DoubleCollectionTypeConverter.ConvertFrom(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object)">
+            <summary>
+            ConvertFrom
+            </summary>
+        </member>
+        <member name="P:Infragistics.Portable.Graphics.Media.GeometryGroup.FillRule">
+            <summary>
+            Gets or sets how the intersecting areas of the objects contained in this System.Windows.Media.GeometryGroup are combined.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Graphics.Media.SweepDirection">
+            <summary>
+            Enum representing the direction of an arc.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Graphics.Media.SweepDirection.Counterclockwise">
+            <summary>
+            In a direction opposite the typical forward movement of the hands of a clock.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Graphics.Media.SweepDirection.Clockwise">
+            <summary>
+             In a direction corresponding to the typical forward movement of the hands of a clock.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Graphics.Media.PenLineCap">
+            <summary>
+            Indicates the type of shape at the end of a line.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Graphics.Media.PenLineCap.Flat">
+            <summary>
+            A flat end
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Graphics.Media.PenLineCap.Square">
+            <summary>
+            A square end
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Graphics.Media.PenLineCap.Round">
+            <summary>
+            A round end
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Graphics.Media.PenLineCap.Triangle">
+            <summary>
+            A triangluar end
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Graphics.Media.PenLineJoin">
+            <summary>
+            Indicates the type of shape at the end of a line.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Graphics.Media.PenLineJoin.Miter">
+            <summary>
+            Regular angular vertices.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Graphics.Media.PenLineJoin.Bevel">
+            <summary>
+            Beveled vertices.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Portable.Graphics.Media.PenLineJoin.Round">
+            <summary>
+            Rounded vertices.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Portable.Graphics.Media.Color">
+            <summary>
+            Represents a color
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Graphics.Media.Color.Equals(System.Object)">
+            <summary>
+            Determines if a Color is equivalent to another.
+            </summary>
+            <param name="obj">The other Color.</param>
+            <returns>True if the Colors are equivalent.</returns>
+        </member>
+        <member name="M:Infragistics.Portable.Graphics.Media.Color.GetHashCode">
+            <summary>
+            Returns a code suitable for hashing
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Graphics.Media.Color.StringToRGBA(System.String)">
+            <summary>
+            Parses the specified string into a 4-element byte array containing
+            the red, green, blue, and alpha components, in that order.
+            </summary>
+            <param name="str">The string to parse</param>
+            <returns>
+            A 4-element byte array containing the red, green, blue,
+            and alpha components, in that order.
+            </returns>
+        </member>
+        <member name="M:Infragistics.Portable.Graphics.Media.Color.op_Implicit(System.Drawing.Color)~Infragistics.Portable.Graphics.Media.Color">
+            <summary>
+            Allows a new Infragistics.Portable.Graphics.Media instance to be created
+            from an existing System.Drawing.Color instance.
+            </summary>
+            <param name="color">The System.Drawing.Color instance from which to initialize an Infragistics.Portable.Graphics.Media instance.</param>
+            <returns>An Infragistics.Portable.Graphics.Media instance.</returns>
+        </member>
+        <member name="M:Infragistics.Portable.Point.Equals(System.Object)">
+            <summary>
+            Determines if a Point is equivalent to another.
+            </summary>
+            <param name="obj">The other Point.</param>
+            <returns>True if the Points are equivalent.</returns>
+        </member>
+        <member name="M:Infragistics.Portable.Point.GetHashCode">
+            <summary>
+            Returns a code suitable for hashing
+            </summary>
+        </member>
+        <member name="M:Infragistics.Portable.Rect.Equals(System.Object)">
+            <summary>
+            Determines if a Rect is equivalent to another.
+            </summary>
+            <param name="obj">The other Rect.</param>
+            <returns>True if the Rects are equivalent.</returns>
+        </member>
+        <member name="M:Infragistics.Portable.Size.Equals(System.Object)">
+            <summary>
+            Determines if a Size is equivalent to another.
+            </summary>
+            <param name="obj">The other Size.</param>
+            <returns>True if the Sizes are equivalent.</returns>
+        </member>
+        <member name="M:Infragistics.Portable.Size.GetHashCode">
+            <summary>
+            Returns a code suitable for hashing
+            </summary>
+        </member>
+    </members>
+</doc>

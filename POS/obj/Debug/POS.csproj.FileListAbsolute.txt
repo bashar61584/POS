@@ -1,0 +1,655 @@
+D:\Project\DesktopApplication\POS\POS\bin\Debug\POS.exe.config
+D:\Project\DesktopApplication\POS\POS\bin\Debug\POS.exe
+D:\Project\DesktopApplication\POS\POS\bin\Debug\POS.pdb
+D:\Project\DesktopApplication\POS\POS\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\CrystalDecisions.Shared.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\EntityFramework.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Documents.Excel.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Documents.Reports.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Shared.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.AppStylistSupport.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.DataVisualization.UltraDataChart.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.Misc.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.Portable.Core.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.SupportDialogs.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.FormulaBuilder.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinEditors.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinExplorerBar.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.DocumentExport.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.ExcelExport.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinListView.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinOfficeNavBar.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinRadialMenu.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTabbedMdi.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTabControl.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinToolbars.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTree.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\ShockwaveFlashObjects.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Documents.Core.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinDataSource.v19.2.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\stdole.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\EntityFramework.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Documents.Excel.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Documents.Reports.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Shared.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.AppStylistSupport.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.DataVisualization.UltraDataChart.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.Misc.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.Portable.Core.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.SupportDialogs.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.FormulaBuilder.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinEditors.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinExplorerBar.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.DocumentExport.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.ExcelExport.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinListView.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinOfficeNavBar.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinRadialMenu.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTabbedMdi.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTabControl.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinToolbars.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTree.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Documents.Core.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\bin\Debug\Infragistics4.Win.UltraWinDataSource.v19.2.xml
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.exe.config
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.MainForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.MainForm2.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.MainForm3.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.EmployeePaymentMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.EmployeeMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.EmployeePaymentMaster.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.EmployeeMaster.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.EmployeeReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.DesignationMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.DesignationMaster.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.DesignationReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.UserReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.UserMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.UserMaster.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.CustomerMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.CustomerMaster.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.CustomerReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.LoanMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.LoanMaster.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.LoanReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Reports.CustomerLedger.SaleReport2.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Customer.SalesReportReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Reports.CustomerLedger.SupplierLedger.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Customer.SupplierLedgerReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Reports.CustomerLedger.LoanLedger.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Customer.LoanLedgerReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Reports.CustomerLedger.CustomerLedger2.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Customer.CustomerLedgerReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\TMS.SettingBR.BackupForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\TMS.SettingBR.RestoreForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\TMS.SoftwareSetting.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.LoanAccountMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.LoanAccountMaster.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.LoanAccountReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.SupplierAccountReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.SupplierAccountMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.SupplierAccountMaster.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.CustomerAccountMaster.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.CustomerAccountMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.CustomerAccountReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.TransferOutMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.TransferOutMaster.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.TransferOutReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.TransferInMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.TransferInMaster.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.TransferInReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.SaleReturnMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.SaleReturnMaster.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.SaleReturnReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.SaleMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.SaleMaster.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.SaleReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.PurchaseReturnMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.PurchaseReturnMaster.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.PurchaseReturnReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.PurchaseMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.PurchaseMaster.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.PurchaseReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.SupplierReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.SupplierMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.ItemMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.ItemMaster2.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.ItemReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Properties.Resources.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.SupplierMaster.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\TMS.User_Login.ConfirmBoxForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\TMS.User_Login.UserLoginForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.exe.licenses
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.csproj.CopyComplete
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.exe
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.pdb
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.EmployeePaymentReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.ExpenseMenuMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.ExpenseMenuMaster.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.ExpenseMenuReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.ExpenseMain.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.ExpenseMaster.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Item.ExpenseReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Reports.CustomerLedger.ExpenseReportForm.resources
+D:\Project\DesktopApplication\POS\POS\obj\Debug\POS.Customer.ExpenseReportReportForm.resources
+F:\POS\POS\bin\Debug\POS.exe.config
+F:\POS\POS\bin\Debug\POS.exe
+F:\POS\POS\bin\Debug\POS.pdb
+F:\POS\POS\bin\Debug\EntityFramework.dll
+F:\POS\POS\bin\Debug\EntityFramework.SqlServer.dll
+F:\POS\POS\bin\Debug\ShockwaveFlashObjects.dll
+F:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\POS\POS\bin\Debug\Infragistics4.Documents.Core.v19.2.dll
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.dll
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v19.2.dll
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinDataSource.v19.2.dll
+F:\POS\POS\bin\Debug\stdole.dll
+F:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\POS\POS\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+F:\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+F:\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+F:\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+F:\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+F:\POS\POS\bin\Debug\Bunifu_UI_v1.5.3.xml
+F:\POS\POS\bin\Debug\EntityFramework.xml
+F:\POS\POS\bin\Debug\EntityFramework.SqlServer.xml
+F:\POS\POS\bin\Debug\Infragistics4.Documents.Excel.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Documents.Reports.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Shared.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.AppStylistSupport.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.DataVisualization.UltraDataChart.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.Misc.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.Portable.Core.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.SupportDialogs.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.FormulaBuilder.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinEditors.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinExplorerBar.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.DocumentExport.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.ExcelExport.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinListView.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinOfficeNavBar.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinRadialMenu.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTabbedMdi.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTabControl.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinToolbars.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTree.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Documents.Core.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v19.2.xml
+F:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinDataSource.v19.2.xml
+F:\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+F:\POS\POS\obj\Debug\POS.exe.config
+F:\POS\POS\obj\Debug\POS.MainForm.resources
+F:\POS\POS\obj\Debug\POS.MainForm2.resources
+F:\POS\POS\obj\Debug\POS.MainForm3.resources
+F:\POS\POS\obj\Debug\POS.Item.ExpenseMenuMain.resources
+F:\POS\POS\obj\Debug\POS.Item.ExpenseMenuMaster.resources
+F:\POS\POS\obj\Debug\POS.Item.ExpenseMenuReportForm.resources
+F:\POS\POS\obj\Debug\POS.Reports.CustomerLedger.ExpenseReportForm.resources
+F:\POS\POS\obj\Debug\POS.Customer.ExpenseReportReportForm.resources
+F:\POS\POS\obj\Debug\POS.Item.EmployeePaymentMain.resources
+F:\POS\POS\obj\Debug\POS.Item.EmployeeMain.resources
+F:\POS\POS\obj\Debug\POS.Item.EmployeePaymentMaster.resources
+F:\POS\POS\obj\Debug\POS.Item.EmployeeMaster.resources
+F:\POS\POS\obj\Debug\POS.Item.EmployeeReportForm.resources
+F:\POS\POS\obj\Debug\POS.Item.DesignationMain.resources
+F:\POS\POS\obj\Debug\POS.Item.DesignationMaster.resources
+F:\POS\POS\obj\Debug\POS.Item.DesignationReportForm.resources
+F:\POS\POS\obj\Debug\POS.Item.UserReportForm.resources
+F:\POS\POS\obj\Debug\POS.Item.UserMain.resources
+F:\POS\POS\obj\Debug\POS.Item.UserMaster.resources
+F:\POS\POS\obj\Debug\POS.Item.CustomerMain.resources
+F:\POS\POS\obj\Debug\POS.Item.CustomerMaster.resources
+F:\POS\POS\obj\Debug\POS.Item.CustomerReportForm.resources
+F:\POS\POS\obj\Debug\POS.Item.LoanMain.resources
+F:\POS\POS\obj\Debug\POS.Item.LoanMaster.resources
+F:\POS\POS\obj\Debug\POS.Item.LoanReportForm.resources
+F:\POS\POS\obj\Debug\POS.Reports.CustomerLedger.SaleReport2.resources
+F:\POS\POS\obj\Debug\POS.Customer.SalesReportReportForm.resources
+F:\POS\POS\obj\Debug\POS.Reports.CustomerLedger.SupplierLedger.resources
+F:\POS\POS\obj\Debug\POS.Customer.SupplierLedgerReportForm.resources
+F:\POS\POS\obj\Debug\POS.Reports.CustomerLedger.LoanLedger.resources
+F:\POS\POS\obj\Debug\POS.Customer.LoanLedgerReportForm.resources
+F:\POS\POS\obj\Debug\POS.Reports.CustomerLedger.CustomerLedger2.resources
+F:\POS\POS\obj\Debug\POS.Customer.CustomerLedgerReportForm.resources
+F:\POS\POS\obj\Debug\TMS.SettingBR.BackupForm.resources
+F:\POS\POS\obj\Debug\TMS.SettingBR.RestoreForm.resources
+F:\POS\POS\obj\Debug\TMS.SoftwareSetting.resources
+F:\POS\POS\obj\Debug\POS.Item.EmployeePaymentReportForm.resources
+F:\POS\POS\obj\Debug\POS.Item.LoanAccountMain.resources
+F:\POS\POS\obj\Debug\POS.Item.LoanAccountMaster.resources
+F:\POS\POS\obj\Debug\POS.Item.LoanAccountReportForm.resources
+F:\POS\POS\obj\Debug\POS.Item.SupplierAccountReportForm.resources
+F:\POS\POS\obj\Debug\POS.Item.SupplierAccountMain.resources
+F:\POS\POS\obj\Debug\POS.Item.SupplierAccountMaster.resources
+F:\POS\POS\obj\Debug\POS.Item.CustomerAccountMaster.resources
+F:\POS\POS\obj\Debug\POS.Item.CustomerAccountMain.resources
+F:\POS\POS\obj\Debug\POS.Item.CustomerAccountReportForm.resources
+F:\POS\POS\obj\Debug\POS.Item.ExpenseMain.resources
+F:\POS\POS\obj\Debug\POS.Item.ExpenseMaster.resources
+F:\POS\POS\obj\Debug\POS.Item.ExpenseReportForm.resources
+F:\POS\POS\obj\Debug\POS.Item.TransferOutMain.resources
+F:\POS\POS\obj\Debug\POS.Item.TransferOutMaster.resources
+F:\POS\POS\obj\Debug\POS.Item.TransferOutReportForm.resources
+F:\POS\POS\obj\Debug\POS.Item.TransferInMain.resources
+F:\POS\POS\obj\Debug\POS.Item.TransferInMaster.resources
+F:\POS\POS\obj\Debug\POS.Item.TransferInReportForm.resources
+F:\POS\POS\obj\Debug\POS.Item.SaleReturnMain.resources
+F:\POS\POS\obj\Debug\POS.Item.SaleReturnMaster.resources
+F:\POS\POS\obj\Debug\POS.Item.SaleReturnReportForm.resources
+F:\POS\POS\obj\Debug\POS.Item.SaleMain.resources
+F:\POS\POS\obj\Debug\POS.Item.SaleMaster.resources
+F:\POS\POS\obj\Debug\POS.Item.SaleReportForm.resources
+F:\POS\POS\obj\Debug\POS.Item.PurchaseReturnMain.resources
+F:\POS\POS\obj\Debug\POS.Item.PurchaseReturnMaster.resources
+F:\POS\POS\obj\Debug\POS.Item.PurchaseReturnReportForm.resources
+F:\POS\POS\obj\Debug\POS.Item.PurchaseMain.resources
+F:\POS\POS\obj\Debug\POS.Item.PurchaseMaster.resources
+F:\POS\POS\obj\Debug\POS.Item.PurchaseReportForm.resources
+F:\POS\POS\obj\Debug\POS.Item.SupplierReportForm.resources
+F:\POS\POS\obj\Debug\POS.Item.SupplierMain.resources
+F:\POS\POS\obj\Debug\POS.Item.ItemMain.resources
+F:\POS\POS\obj\Debug\POS.Item.ItemMaster2.resources
+F:\POS\POS\obj\Debug\POS.Item.ItemReportForm.resources
+F:\POS\POS\obj\Debug\POS.Properties.Resources.resources
+F:\POS\POS\obj\Debug\POS.Item.SupplierMaster.resources
+F:\POS\POS\obj\Debug\TMS.User_Login.ConfirmBoxForm.resources
+F:\POS\POS\obj\Debug\TMS.User_Login.UserLoginForm.resources
+F:\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+F:\POS\POS\obj\Debug\POS.exe.licenses
+F:\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+F:\POS\POS\obj\Debug\POS.csproj.CopyComplete
+F:\POS\POS\obj\Debug\POS.exe
+F:\POS\POS\obj\Debug\POS.pdb
+D:\POS\POS\obj\Debug\POS.MainForm.resources
+D:\POS\POS\obj\Debug\POS.MainForm2.resources
+D:\POS\POS\obj\Debug\POS.MainForm3.resources
+D:\POS\POS\obj\Debug\POS.Item.ExpenseMenuMain.resources
+D:\POS\POS\obj\Debug\POS.Item.ExpenseMenuMaster.resources
+D:\POS\POS\obj\Debug\POS.Item.ExpenseMenuReportForm.resources
+D:\POS\POS\obj\Debug\POS.Reports.CustomerLedger.ExpenseReportForm.resources
+D:\POS\POS\obj\Debug\POS.Customer.ExpenseReportReportForm.resources
+D:\POS\POS\obj\Debug\POS.Item.EmployeePaymentMain.resources
+D:\POS\POS\obj\Debug\POS.Item.EmployeeMain.resources
+D:\POS\POS\obj\Debug\POS.Item.EmployeePaymentMaster.resources
+D:\POS\POS\obj\Debug\POS.Item.EmployeeMaster.resources
+D:\POS\POS\obj\Debug\POS.Item.EmployeeReportForm.resources
+D:\POS\POS\obj\Debug\POS.Item.DesignationMain.resources
+D:\POS\POS\obj\Debug\POS.Item.DesignationMaster.resources
+D:\POS\POS\obj\Debug\POS.Item.DesignationReportForm.resources
+D:\POS\POS\obj\Debug\POS.Item.UserReportForm.resources
+D:\POS\POS\obj\Debug\POS.Item.UserMain.resources
+D:\POS\POS\obj\Debug\POS.Item.UserMaster.resources
+D:\POS\POS\obj\Debug\POS.Item.CustomerMain.resources
+D:\POS\POS\obj\Debug\POS.Item.CustomerMaster.resources
+D:\POS\POS\obj\Debug\POS.Item.CustomerReportForm.resources
+D:\POS\POS\obj\Debug\POS.Item.LoanMain.resources
+D:\POS\POS\obj\Debug\POS.Item.LoanMaster.resources
+D:\POS\POS\obj\Debug\POS.Item.LoanReportForm.resources
+D:\POS\POS\obj\Debug\POS.Reports.CustomerLedger.SaleReport2.resources
+D:\POS\POS\obj\Debug\POS.Customer.SalesReportReportForm.resources
+D:\POS\POS\obj\Debug\POS.Reports.CustomerLedger.SupplierLedger.resources
+D:\POS\POS\obj\Debug\POS.Customer.SupplierLedgerReportForm.resources
+D:\POS\POS\obj\Debug\POS.Reports.CustomerLedger.LoanLedger.resources
+D:\POS\POS\obj\Debug\POS.Customer.LoanLedgerReportForm.resources
+D:\POS\POS\obj\Debug\POS.Reports.CustomerLedger.CustomerLedger2.resources
+D:\POS\POS\obj\Debug\POS.Customer.CustomerLedgerReportForm.resources
+D:\POS\POS\obj\Debug\TMS.SettingBR.BackupForm.resources
+D:\POS\POS\obj\Debug\TMS.SettingBR.RestoreForm.resources
+D:\POS\POS\obj\Debug\TMS.SoftwareSetting.resources
+D:\POS\POS\obj\Debug\POS.Item.EmployeePaymentReportForm.resources
+D:\POS\POS\obj\Debug\POS.Item.LoanAccountMain.resources
+D:\POS\POS\obj\Debug\POS.Item.LoanAccountMaster.resources
+D:\POS\POS\obj\Debug\POS.Item.LoanAccountReportForm.resources
+D:\POS\POS\obj\Debug\POS.Item.SupplierAccountReportForm.resources
+D:\POS\POS\obj\Debug\POS.Item.SupplierAccountMain.resources
+D:\POS\POS\obj\Debug\POS.Item.SupplierAccountMaster.resources
+D:\POS\POS\obj\Debug\POS.Item.CustomerAccountMaster.resources
+D:\POS\POS\obj\Debug\POS.Item.CustomerAccountMain.resources
+D:\POS\POS\obj\Debug\POS.Item.CustomerAccountReportForm.resources
+D:\POS\POS\obj\Debug\POS.Item.ExpenseMain.resources
+D:\POS\POS\obj\Debug\POS.Item.ExpenseMaster.resources
+D:\POS\POS\obj\Debug\POS.Item.ExpenseReportForm.resources
+D:\POS\POS\obj\Debug\POS.Item.TransferOutMain.resources
+D:\POS\POS\obj\Debug\POS.Item.TransferOutMaster.resources
+D:\POS\POS\obj\Debug\POS.Item.TransferOutReportForm.resources
+D:\POS\POS\obj\Debug\POS.Item.TransferInMain.resources
+D:\POS\POS\obj\Debug\POS.Item.TransferInMaster.resources
+D:\POS\POS\obj\Debug\POS.Item.TransferInReportForm.resources
+D:\POS\POS\obj\Debug\POS.Item.SaleReturnMain.resources
+D:\POS\POS\obj\Debug\POS.Item.SaleReturnMaster.resources
+D:\POS\POS\obj\Debug\POS.Item.SaleReturnReportForm.resources
+D:\POS\POS\obj\Debug\POS.Item.SaleMain.resources
+D:\POS\POS\obj\Debug\POS.Item.SaleMaster.resources
+D:\POS\POS\obj\Debug\POS.Item.SaleReportForm.resources
+D:\POS\POS\obj\Debug\POS.Item.PurchaseReturnMain.resources
+D:\POS\POS\obj\Debug\POS.Item.PurchaseReturnMaster.resources
+D:\POS\POS\obj\Debug\POS.Item.PurchaseReturnReportForm.resources
+D:\POS\POS\obj\Debug\POS.Item.PurchaseMain.resources
+D:\POS\POS\obj\Debug\POS.Item.PurchaseMaster.resources
+D:\POS\POS\obj\Debug\POS.Item.PurchaseReportForm.resources
+D:\POS\POS\obj\Debug\POS.Item.SupplierReportForm.resources
+D:\POS\POS\obj\Debug\POS.Item.SupplierMain.resources
+D:\POS\POS\obj\Debug\POS.Item.ItemMain.resources
+D:\POS\POS\obj\Debug\POS.Item.ItemMaster2.resources
+D:\POS\POS\obj\Debug\POS.Item.ItemReportForm.resources
+D:\POS\POS\obj\Debug\POS.Properties.Resources.resources
+D:\POS\POS\obj\Debug\POS.Item.SupplierMaster.resources
+D:\POS\POS\obj\Debug\TMS.User_Login.ConfirmBoxForm.resources
+D:\POS\POS\obj\Debug\TMS.User_Login.UserLoginForm.resources
+D:\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+D:\POS\POS\obj\Debug\POS.exe.licenses
+D:\POS\POS\obj\Debug\POS.exe
+D:\POS\POS\obj\Debug\POS.pdb
+D:\POS\POS\bin\Debug\POS.exe.config
+D:\POS\POS\bin\Debug\POS.exe
+D:\POS\POS\bin\Debug\POS.pdb
+D:\POS\POS\bin\Debug\EntityFramework.dll
+D:\POS\POS\bin\Debug\EntityFramework.SqlServer.dll
+D:\POS\POS\bin\Debug\ShockwaveFlashObjects.dll
+D:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\POS\POS\bin\Debug\Infragistics4.Documents.Core.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinDataSource.v19.2.dll
+D:\POS\POS\bin\Debug\stdole.dll
+D:\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\POS\POS\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+D:\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\POS\POS\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\POS\POS\bin\Debug\EntityFramework.xml
+D:\POS\POS\bin\Debug\EntityFramework.SqlServer.xml
+D:\POS\POS\bin\Debug\Infragistics4.Documents.Excel.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Documents.Reports.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Shared.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.AppStylistSupport.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.DataVisualization.UltraDataChart.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.Misc.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.Portable.Core.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.SupportDialogs.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.FormulaBuilder.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinEditors.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinExplorerBar.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.DocumentExport.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.ExcelExport.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinListView.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinOfficeNavBar.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinRadialMenu.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTabbedMdi.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTabControl.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinToolbars.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTree.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Documents.Core.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v19.2.xml
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinDataSource.v19.2.xml
+D:\POS\POS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\POS\POS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\POS\POS\bin\Debug\CrystalDecisions.Shared.dll
+D:\POS\POS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\POS\POS\bin\Debug\Infragistics4.Documents.Excel.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Documents.Reports.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Shared.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.AppStylistSupport.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.DataVisualization.UltraDataChart.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.Misc.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.Portable.Core.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.SupportDialogs.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.FormulaBuilder.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinEditors.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinExplorerBar.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.DocumentExport.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.ExcelExport.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinListView.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinOfficeNavBar.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinRadialMenu.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTabbedMdi.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTabControl.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinToolbars.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTree.v19.2.dll
+D:\POS\POS\bin\Debug\Infragistics4.Win.v19.2.dll
+D:\POS\POS\bin\Debug\FlashControlV71.dll
+D:\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+D:\POS\POS\obj\Debug\POS.csproj.POS.exe.config
+D:\office work\POS\POS\bin\Debug\POS.exe.config
+D:\office work\POS\POS\obj\Debug\POS.exe
+D:\office work\POS\POS\obj\Debug\POS.pdb
+D:\office work\POS\POS\bin\Debug\POS.exe
+D:\office work\POS\POS\bin\Debug\POS.pdb
+D:\office work\POS\POS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\office work\POS\POS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\office work\POS\POS\bin\Debug\CrystalDecisions.Shared.dll
+D:\office work\POS\POS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\office work\POS\POS\bin\Debug\EntityFramework.dll
+D:\office work\POS\POS\bin\Debug\EntityFramework.SqlServer.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Documents.Excel.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Documents.Reports.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Shared.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.AppStylistSupport.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.DataVisualization.UltraDataChart.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.Misc.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.Portable.Core.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.SupportDialogs.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.FormulaBuilder.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinEditors.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinExplorerBar.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.DocumentExport.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.ExcelExport.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinListView.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinOfficeNavBar.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinRadialMenu.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTabbedMdi.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTabControl.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinToolbars.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTree.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.v19.2.dll
+D:\office work\POS\POS\bin\Debug\ShockwaveFlashObjects.dll
+D:\office work\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\office work\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\office work\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\office work\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\office work\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\office work\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\office work\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\office work\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\office work\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\office work\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\office work\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\office work\POS\POS\bin\Debug\FlashControlV71.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Documents.Core.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v19.2.dll
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinDataSource.v19.2.dll
+D:\office work\POS\POS\bin\Debug\stdole.dll
+D:\office work\POS\POS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\office work\POS\POS\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+D:\office work\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\office work\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\office work\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\office work\POS\POS\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\office work\POS\POS\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\office work\POS\POS\bin\Debug\EntityFramework.xml
+D:\office work\POS\POS\bin\Debug\EntityFramework.SqlServer.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Documents.Excel.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Documents.Reports.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Shared.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.AppStylistSupport.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.DataVisualization.UltraDataChart.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.Misc.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.Portable.Core.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.SupportDialogs.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.FormulaBuilder.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinEditors.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinExplorerBar.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.DocumentExport.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.ExcelExport.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinListView.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinOfficeNavBar.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinRadialMenu.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTabbedMdi.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTabControl.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinToolbars.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinTree.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Documents.Core.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v19.2.xml
+D:\office work\POS\POS\bin\Debug\Infragistics4.Win.UltraWinDataSource.v19.2.xml
+D:\office work\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+D:\office work\POS\POS\obj\Debug\POS.csproj.POS.exe.config
+D:\office work\POS\POS\obj\Debug\POS.MainForm.resources
+D:\office work\POS\POS\obj\Debug\POS.MainForm2.resources
+D:\office work\POS\POS\obj\Debug\POS.MainForm3.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.ExpenseMenuMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.ExpenseMenuMaster.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.ExpenseMenuReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Reports.CustomerLedger.ExpenseReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Customer.ExpenseReportReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.EmployeePaymentMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.EmployeeMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.EmployeePaymentMaster.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.EmployeeMaster.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.EmployeeReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.DesignationMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.DesignationMaster.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.DesignationReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.UserReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.UserMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.UserMaster.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.CustomerMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.CustomerMaster.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.CustomerReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.LoanMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.LoanMaster.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.LoanReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Reports.CustomerLedger.SaleReport2.resources
+D:\office work\POS\POS\obj\Debug\POS.Customer.SalesReportReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Reports.CustomerLedger.SupplierLedger.resources
+D:\office work\POS\POS\obj\Debug\POS.Customer.SupplierLedgerReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Reports.CustomerLedger.LoanLedger.resources
+D:\office work\POS\POS\obj\Debug\POS.Customer.LoanLedgerReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Reports.CustomerLedger.CustomerLedger2.resources
+D:\office work\POS\POS\obj\Debug\POS.Customer.CustomerLedgerReportForm.resources
+D:\office work\POS\POS\obj\Debug\TMS.SettingBR.BackupForm.resources
+D:\office work\POS\POS\obj\Debug\TMS.SettingBR.RestoreForm.resources
+D:\office work\POS\POS\obj\Debug\TMS.SoftwareSetting.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.EmployeePaymentReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.LoanAccountMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.LoanAccountMaster.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.LoanAccountReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.SupplierAccountReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.SupplierAccountMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.SupplierAccountMaster.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.CustomerAccountMaster.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.CustomerAccountMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.CustomerAccountReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.ExpenseMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.ExpenseMaster.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.ExpenseReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.TransferOutMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.TransferOutMaster.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.TransferOutReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.TransferInMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.TransferInMaster.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.TransferInReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.SaleReturnMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.SaleReturnMaster.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.SaleReturnReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.SaleMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.SaleMaster.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.SaleReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.PurchaseReturnMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.PurchaseReturnMaster.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.PurchaseReturnReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.PurchaseMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.PurchaseMaster.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.PurchaseReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.SupplierReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.SupplierMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.ItemMain.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.ItemMaster2.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.ItemReportForm.resources
+D:\office work\POS\POS\obj\Debug\POS.Properties.Resources.resources
+D:\office work\POS\POS\obj\Debug\POS.Item.SupplierMaster.resources
+D:\office work\POS\POS\obj\Debug\TMS.User_Login.ConfirmBoxForm.resources
+D:\office work\POS\POS\obj\Debug\TMS.User_Login.UserLoginForm.resources
+D:\office work\POS\POS\obj\Debug\POS.csproj.GenerateResource.Cache
+D:\office work\POS\POS\obj\Debug\POS.exe.licenses
+D:\office work\POS\POS\obj\Debug\POS.Reports.CustomerLedger.Summary.resources
